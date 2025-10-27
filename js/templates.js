@@ -1,8 +1,6 @@
-export function renderProjetoCard(titulo, descricao) {
-  return `
+export function renderProjetoCard(r,e){return`
     <div class="projeto-card">
-      <h3>${titulo}</h3>
-      <p>${descricao}</p>
+      <h3>${r}</h3>
+      <p>${e}</p>
     </div>
-  `;
-}
+  `}
