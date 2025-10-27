@@ -1,0 +1,15 @@
+:root {
+  --cor-principal: #005f73;
+  --cor-secundaria: #0a9396;
+  --cor-fundo: #f6f6f6;
+  --cor-texto: #222;
+  --cor-branca: #fff;
+
+  --fonte-base: 'Poppins', sans-serif;
+
+  --espaco-peq: 8px;
+  --espaco-med: 16px;
+  --espaco-grd: 32px;
+
+  --borda-arred: 8px;
+}

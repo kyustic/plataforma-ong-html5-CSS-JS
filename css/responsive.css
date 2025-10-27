@@ -1,0 +1,14 @@
+@media (max-width: 768px) {
+  nav ul {
+    flex-direction: column;
+    gap: var(--espaco-peq);
+  }
+
+  main section {
+    padding: var(--espaco-med);
+  }
+
+  h1 {
+    font-size: 1.4rem;
+  }
+}
